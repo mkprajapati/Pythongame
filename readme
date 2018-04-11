@@ -1,0 +1,15 @@
+this is simple 2D game written in python.
+first of all download clone
+then extract it
+Open your cmd
+type "pip install playsound"
+this will add a module to play background tune
+then open your Python IDLE
+after this open Game.py file in IDLE
+& press F5 
+you are ready to play your game
+to turn left enter left arrow key
+to turn right enter right arrow key
+to increase speed of turtle press upper arrow key
+play with fun
+thanks.
